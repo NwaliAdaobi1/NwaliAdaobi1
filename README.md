@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nwaliadaobi1&label=Profile%20views&color=0e75b6&style=flat" alt="nwaliadaobi1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nwaliadaobi1" alt="nwaliadaobi1" /></a> </p>
 
-- 🔭 I’m currently working on **Learn With George Operational Analysis**
+- I’m currently working on **Learn With George Operational Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/NwaliAdaobi1](https://github.com/NwaliAdaobi1)
+- All of my projects are available at [https://github.com/NwaliAdaobi1](https://github.com/NwaliAdaobi1)
 
-- 📫 How to reach me **nwaliadaobi@gmail.com**
+- How to reach me **nwaliadaobi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
