@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nwali Adaobi</h1>
 
+![](image_cover.jfif)
+
 <h3 align="center">I am a passionate data analyst, skilled in transforming raw and unstructured data into clear and actionable insights. I am open to collaborations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nwaliadaobi1&label=Profile%20views&color=0e75b6&style=flat" alt="nwaliadaobi1" /> </p>
